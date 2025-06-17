@@ -2,7 +2,7 @@
 
 This is a Spring Boot backend project for the **Just Born** e-commerce web application, designed for shopping baby and kids' products (ages 1 month to 5 years). It handles product listings, user management, cart operations, order processing, and payment logic.
 
-> 📦 **Frontend Code Available At:** [https://github.com/padi-premsai/just-born](https://github.com/padi-premsai/just-born)
+> 📦 **Frontend Code Available At:** [Just Born (Angular)](https://github.com/padi-premsai/just-born)
 
 ---
 
